@@ -61,4 +61,6 @@ img/             Fotos (por ahora de referencia, de Pexels)
 - [ ] Fotos reales antes/después para reemplazar la simulación
 - [ ] Galería de trabajos
 - [ ] Redes sociales (Instagram) en el footer
-- [ ] Publicar la página (GitHub Pages, Netlify o Vercel) y conseguir dominio
+- [ ] Publicar en Vercel: proyecto `onyx-detail` creado y conectado al repo, pero aún SIN deploy de producción (el push fue antes de conectar). Siguiente paso: "Create Deployment" con rama `main` (preset Other, sin build) o commit vacío. URL: onyx-detail-lac.vercel.app
+- [ ] Revisión UI/UX con la skill ui-ux-pro-max
+- [ ] Dominio propio
